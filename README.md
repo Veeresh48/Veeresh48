@@ -1,1 +1,12 @@
-# Coughyyee
+# 💫 About Me:
+## About Me 👨‍💻<br><br>🔭 I’m currently working on improving my Full Stack Development skills and building scalable web applications.<br><br>👯 I’m looking to collaborate on Full Stack Development, Microservices, Web Development, and Open Source projects.<br><br>🤝 I’m looking for help with Backend Development, Microservices Architecture, Cloud Technologies, and System Design.<br><br>🌱 I’m currently learning ReactJS, Node.js, Microservices, and modern Full Stack technologies.<br><br>💬 Ask me about JavaScript, ReactJS, HTML, CSS, Full Stack Development, and Web Technologies.<br><br>⚡ Fun fact: I enjoy building end-to-end applications, from responsive user interfaces to scalable backend services and microservice-based architectures.<br><br>🎯 Goal: To become a skilled Full Stack Developer and build scalable, high-quality software solutions.<br>
+
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Veeresh48&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Veeresh48&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Veeresh48&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
